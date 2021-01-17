@@ -23,4 +23,9 @@ The second file is à **README.md** file which will explain the repository creat
 ...[MarkDown](https://github.com/alexg-rgb/Markdown/blob/master/markdown.md)...
 
 ![logo](https://e7.pngegg.com/pngimages/918/742/png-clipart-logo-brand-markdown-others-blue-logo-thumbnail.png)
+
 ![animated image](https://media4.giphy.com/media/3oEjHV0z8S7WM4MwnK/giphy.gif)
+ 
+`<script type="text/javascript" >
+  alert("a little code");
+</script>
