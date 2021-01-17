@@ -6,5 +6,5 @@ The second file is à **README.md** file which will explain the repository creat
 
 ## Group's Member:
 
-1. Alexandre Garcao.
-2.Sandrine Bataganira .
+1. Alexandre Garcao. .
+2.Sandrine Bataganira 
