@@ -26,6 +26,12 @@ The second file is à **README.md** file which will explain the repository creat
 
 ![animated image](https://media4.giphy.com/media/3oEjHV0z8S7WM4MwnK/giphy.gif)
  
-`<script type="text/javascript" >
-  alert("a little code");
-</script>
+```html
+```<html>
+  <head>
+   <body>
+    <p> a little code </p>
+   </body>
+  </head>
+</html>
+```
