@@ -1,12 +1,10 @@
-== The mission
+# Markdown Repository
 
-In teams of four you have to create a repository called _exercise-markdown_, in
-which you will add two files: _README.md_ and _markdown.md_. _README.md_ will
-have a description of the repository, as well as, a list of the group's member.
-While _markdown.md_ will talk about what's *MarkDown* (description, purpose,
-etc...) and respect the _content_ section .
+This is a short description about the *Exercice-Markdown repo*. The repo will contain two files :
+the first one is *Markdown.md* . It is a description , the purpose and everything you need to know about **Markdown**.
+The second file is à **README.md** file which will explain the repository created and a list of the group members.
 
-== Group's Member :
+## Group's Member**:
 
-** Alexandre Garcao
-** Sandrine Bataganira 
+1.Alexandre Garcao
+2.Sandrine Bataganira 
